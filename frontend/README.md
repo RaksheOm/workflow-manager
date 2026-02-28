@@ -193,3 +193,8 @@ make acceptance-test
 ## License
 
 The project is licensed under the MIT license.
+---
+
+## Development Note
+
+This repository is actively being improved with workflow updates and configuration enhancements.
